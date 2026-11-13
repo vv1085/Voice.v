@@ -1,0 +1,7 @@
+gradio==6.32.0
+numpy>=1.26,<3
+pandas>=2.1,<4
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+mne==1.13.2
+moabb==1.7.2
